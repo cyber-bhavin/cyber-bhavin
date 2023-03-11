@@ -12,6 +12,10 @@
 <li class="has-line-data" data-line-start="7" data-line-end="8">Ask me about anything <a href="bhavinkaloliya8@gmail.com">here</a></li>
 </ul>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-bhavin&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-bhavin" /> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhavin-kaloliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavin-kaloliya" height="30" width="40" /></a>
