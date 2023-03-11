@@ -5,12 +5,13 @@
 <img align="right" alt="hacking" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 
 
-<li class="has-line-data" data-line-start="2" data-line-end="3">I’m Currently studying BTech in Cyber Security</li>
-<li class="has-line-data" data-line-start="3" data-line-end="4">Looking for a job or internship in Cyber Forensics.</li>
-<li class="has-line-data" data-line-start="5" data-line-end="6">Take a look at my portfolio site : <a href="mailto:bhavinkaloliya@medium.com">bhavinkaloliya@medium.com</a></li>
-<li class="has-line-data" data-line-start="6" data-line-end="7">Check my blogs on <a href="https://medium.com/@bhavinkaloliya">Medium</a></li>
-<li class="has-line-data" data-line-start="7" data-line-end="8">Ask me about anything <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPVlKncGbWtXqJCKHsnRvDjpVxhZMLppzXbmdrQnCqkdwlQrkLDFPJLfKCzNpSnBHxrGbb">here</a> </li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">🎓I’m Currently studying BTech in Cyber Security</li>
+<li class="has-line-data" data-line-start="3" data-line-end="4">👨🏻‍💻Looking for a job or internship in Cyber Forensics.</li>
+<li class="has-line-data" data-line-start="5" data-line-end="6">👀Take a look at my portfolio site : <a href="mailto:bhavinkaloliya@medium.com">bhavinkaloliya@medium.com</a></li>
+<li class="has-line-data" data-line-start="6" data-line-end="7">📝Check my blogs on <a href="https://medium.com/@bhavinkaloliya">Medium</a></li>
+<li class="has-line-data" data-line-start="7" data-line-end="8">📨Ask me about anything <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPVlKncGbWtXqJCKHsnRvDjpVxhZMLppzXbmdrQnCqkdwlQrkLDFPJLfKCzNpSnBHxrGbb">here</a> </li>
 </ul>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-bhavin&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-bhavin" /> </p>
 
