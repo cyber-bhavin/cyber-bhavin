@@ -9,7 +9,7 @@
 <li class="has-line-data" data-line-start="3" data-line-end="4"> 👨🏻‍💻 Looking for a job or internship in Cyber Forensics.</li>
 <li class="has-line-data" data-line-start="5" data-line-end="6"> 👀 Take a look at my <a href="https://cyber-bhavin.github.io/portfolio/" target="_blank">Portfolio</a></li>
 <li class="has-line-data" data-line-start="6" data-line-end="7"> 📝 Check my blogs on <a href="https://medium.com/@bhavinkaloliya" target="_blank">Medium</a></li>
-<li class="has-line-data" data-line-start="7" data-line-end="8"> 📨 Ask me about anything <a href="mailto:bhavinkaloliya@gmail.com" target="_blank">Here</a> </li>
+<li class="has-line-data" data-line-start="7" data-line-end="8"> 📨 Ask me about anything <a href=mailto:"bhavinkaloliya@gmail.com" target="_blank">Here</a> </li>
 </ul>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cyber-bhavin&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-bhavin" /> </p>
